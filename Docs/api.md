@@ -190,7 +190,6 @@ Not required.
 * Password must satisfy password-validation requirements.
 * Password must be hashed before storage.
 * The user is unverified after signup.
-* A verification email must be sent.
 
 ---
 

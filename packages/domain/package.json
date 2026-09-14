@@ -8,9 +8,7 @@
   "scripts": {
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "lint": "eslint ."
-  },
-  "devDependencies": {
-    "typescript": "^5.5.0"
+    "lint": "eslint .",
+    "clean": "rm -rf dist"
   }
 }
